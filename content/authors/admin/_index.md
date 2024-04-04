@@ -25,7 +25,7 @@ organizations:
     url: https://duke.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Welcome to my website! I am Ph.D. Candidate in the Economics department of Duke. I will participate the job market in Fall 2024, with my main goal being teaching positions. My research interest is applied theory in network settings. I have worked on projects of network markets, company hierarchies, and product differentiation.
+bio: Welcome to my website! I am a Ph.D. Candidate in the Economics Department of Duke. I will participate the job market in the Fall of 2024. My research interest is applied theory in network settings. I have worked on projects of network markets, company hierarchies, and product differentiation.
 
 # Interests to show in About widget
 interests:
@@ -42,7 +42,7 @@ education:
     - course: MSc in Economics
       institution: London School of Economics and Political Science
       year: 2018
-    - course: BEcon, double major in economics and mathematics
+    - course: BEcon, double major in Economics and Mathematics
       institution: The University of Hong Konng
       year: 2016
 
@@ -70,18 +70,18 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Volleyball
         description: ''
         percent: 60
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
+      - name: Speedcubing
         description: ''
         percent: 100
         icon: cat
         icon_pack: fas
-      - name: Photography
-        description: ''
+      - name: Biking
+        description: 'More of a "favorite mode of transportation" than a sport hobby.'
         percent: 80
         icon: camera-retro
         icon_pack: fas
