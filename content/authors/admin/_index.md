@@ -105,5 +105,5 @@ social:
 highlight_name: true
 ---
 
-Welcome to my website! I am a Ph.D. Candidate in the Economics Department of Duke. I will participate the job market in the Fall of 2024. My research interest is applied theory in network settings. I have worked on projects of network markets, company hierarchies, and bribery.
+(Website still under deveplopement) Welcome to my website! I am a Ph.D. Candidate in the Economics Department of Duke. I will participate the job market in the Fall of 2024. My research interest is applied theory in network settings. I have worked on projects of network markets, company hierarchies, and bribery.
 {style="text-align: justify;"}
