@@ -39,7 +39,7 @@ education:
     - course: PhD in Economics
       institution: Duke University
       year: exp. 2025
-    - course: MSc in Economics
+    - course: MSc in Economics (Distinction)
       institution: London School of Economics and Political Science
       year: 2018
     - course: BEcon, double major in Economics and Mathematics
