@@ -25,7 +25,7 @@ organizations:
     url: https://duke.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Welcome to my website! I am a Ph.D. Candidate in the Economics Department of Duke. I will participate the job market in the Fall of 2024. My research interest is applied theory in network settings. I have worked on projects of network markets, company hierarchies, and product differentiation.
+bio: Ph.D. Candidate@Duke Econ. I will participate the job market in the Fall of 2024. My research interest is applied theory in network settings.
 
 # Interests to show in About widget
 interests:
@@ -51,28 +51,25 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: Mathematica
         description: ''
         percent: 80
-      - name: Data Science
+      - name: Stata
         description: ''
-        percent: 100
-      - name: SQL
-        description: ''
-        percent: 40
+        percent: 60
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Volleyball
-        description: 'Recreational level.'
+        description: 'The ball is not dead.'
         percent: 60
       - name: Speedcubing
         description: 'Started in 2020. A part of my mindfulness practices.'
-        percent: 100
-      - name: Biking
-        description: 'More of a "favorite mode of transportation" than a sport hobby.'
         percent: 80
+      - name: Biking
+        description: 'My favorite mode of transportation.'
+        percent: 60
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -81,32 +78,32 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: 'mailto:hs286@duke.edu'
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/GeorgeCushen
+#    label: Follow me on Twitter
+#    display:
+#      header: true
+#  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+#    icon_pack: fas
+#    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/hopanshum
+#  - icon: linkedin
+#    icon_pack: fab
+#    link: https://www.linkedin.com/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+#  - icon: cv
+#    icon_pack: ai
+#    link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Welcome to my website! I am a Ph.D. Candidate in the Economics Department of Duke. I will participate the job market in the Fall of 2024. My research interest is applied theory in network settings. I have worked on projects of network markets, company hierarchies, and product differentiation.
+Welcome to my website! I am a Ph.D. Candidate in the Economics Department of Duke. I will participate the job market in the Fall of 2024. My research interest is applied theory in network settings. I have worked on projects of network markets, company hierarchies, and bribery.
 {style="text-align: justify;"}
