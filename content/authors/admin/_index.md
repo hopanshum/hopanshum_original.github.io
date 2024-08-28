@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Peter Shum
+title: Ho Pan (Peter) Shum
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -11,7 +11,7 @@ last_name: Shum
 
 # Status emoji
 status:
-  icon: 🤯
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -28,7 +28,7 @@ organizations:
 bio: Ph.D. Candidate@Duke Econ. I will participate the job market in the Fall of 2024. My research interest is applied theory in network settings.
 
 # Interests to show in About widget
-interests:
+research interests:
   - Applied Theory
   - Economics of Network
   - Industrial Organization
@@ -51,25 +51,31 @@ education:
 skills:
   - name: Technical
     items:
+     - name: R
+        description: ''
+        percent: 100
+      - name: Python
+        description: ''
+        percent: 100
       - name: Mathematica
         description: ''
         percent: 80
       - name: Stata
         description: ''
         percent: 60
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Volleyball
-        description: 'The ball is not dead.'
-        percent: 60
-      - name: Speedcubing
-        description: 'Started in 2020. A part of my mindfulness practices.'
-        percent: 80
-      - name: Biking
-        description: 'My favorite mode of transportation.'
-        percent: 60
+  # - name: Hobbies
+  #   color: '#eeac02'
+  #   color_border: '#f0bf23'
+  #   items:
+  #     - name: Volleyball
+  #       description: 'The ball is not dead.'
+  #       percent: 60
+  #     - name: Speedcubing
+  #       description: 'Started in 2020. A part of my mindfulness practices.'
+  #       percent: 80
+  #     - name: Biking
+  #       description: 'My favorite mode of transportation.'
+  #       percent: 60
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
