@@ -51,7 +51,7 @@ education:
 skills:
   - name: Technical
     items:
-     - name: R
+      - name: R
         description: ''
         percent: 100
       - name: Python
